@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">May16_Project1</string>
+
+    //signUp
+    <string name="signUpMsg">Please SignUp to Login</string>
+    <string name="usernameHint">Email / Username</string>
+    <string name="username2Hint">Enter Email or Username</string>
+    <string name="passwordHint">Enter new Password</string>
+    <string name="c_passwordHint">Conform password</string>
+    <string name="signUp"> Sign Up</string>
+    <string name="loginRedirect">Already have an account ? </string>
+    <string name="Login"> Login</string>
+
+    //Login
+    <string name="loginMsg">Please Login to Enter</string>
+    <string name="loginPassword">Enter Your Password</string>
+    <string name="SignUpRedirect">Don\'t have an account ? </string>
+
+    //home
+    <string name="home">Home Activity</string>
+    <string name="logout">logout</string>
+
+
+</resources>
